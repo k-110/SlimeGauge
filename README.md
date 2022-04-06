@@ -1,0 +1,2 @@
+# SlimeGauge
+Unityを使ってみたかっただけ
